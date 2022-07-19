@@ -1,0 +1,9 @@
+- name: Vicente Calfo
+  bio: |
+    Desenvolvedor no <a href="http://cncflora.jbrj.gov.br/">CNCFlora/JBRJ</a>, co-fundador da <a href="https://github.com/glucomap">Glucomap</a> e sócio da <a href="https://www.mommytech.com.br/">MommyTech</a>.
+  avatar: ./avatars/vicente-calfo.jpeg
+  social:
+    - url: https://github.com/vicentecalfo
+    - url: https://instagram.com/vicentecalfo
+    - url: https://br.linkedin.com/in/vicentecalfo
+  featured: true

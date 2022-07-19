@@ -1,0 +1,39 @@
+---
+title: Vicente Calfo
+name: Vicente Calfo
+siteUrl: https://vicentecalfo.github.io
+description: This is my description that will be used in the meta tags and
+  important for search results
+hero:
+  heading: Descrição.
+  maxWidth: 652
+social:
+  - name: github
+    url: https://github.com/vicentecalfo
+  - name: instagram
+    url: https://instagram.com/vicentecalfo
+  - name: linkedin
+    url: https://br.linkedin.com/in/vicentecalfo
+blog:
+  copyrightYear: 2022
+  contentPosts: content/posts
+  contentAuthors: content/authors
+  basePath: /
+  authorsPage: true
+  pathPosts: 'a'
+  pathAuthors: 'authors'
+  pageLength: 6
+  sources:
+    local: true
+    contentful: false
+manifest:
+  appName: Novela by Narative
+  appShortName: Novela
+  appDescription: Novela by Narative
+  start_url: /
+  background: "#fff"
+  theme_color: "#fff"   
+  display: standalone
+  alwaysEmitFull: false
+googleAnalytics:
+  trackingId: UA-118232427-3
